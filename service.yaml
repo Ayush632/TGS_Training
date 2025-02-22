@@ -9,9 +9,6 @@ metadata:
   resourceVersion: "9871"
   uid: 77f97d32-bcd7-4a80-af5b-81da72e90792
 spec:
-  clusterIP: 10.105.115.198
-  clusterIPs:
-  - 10.105.115.198
   externalTrafficPolicy: Cluster
   internalTrafficPolicy: Cluster
   ipFamilies:
